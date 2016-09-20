@@ -1,0 +1,12 @@
+.main .main_right .main_mid_top{height:100px;}
+.main .main_right .main_mid_top ul li{float: left;width:173px;height:30px;margin-right:4px;text-align: center;
+    line-height: 30px;border: 1px solid #e6e6e6;background: url(../images/phonerightbg_03.jpg);margin-top: 13px;}
+.main .main_right .main_mid_top ul li a{color: #9d9d9d}
+.main .main_right .main_mid_top ul .phone_active{background: #f59e01;}
+.main .main_right .main_mid_top ul .phone_active a{color: #fff;}
+.main .main_right  form{margin:26px 0 0 39px;line-height: 28px;}
+.main .main_right  form input{margin-top: 20px;}
+.main .main_right  form .inputtxt{width:222px;height:23px;border: 1px solid #e2e3ea;border-top-color: #abadb3;}
+.main .main_right  select{border: none;color: #663715;}
+.main .main_right  form .submit{width:81px;height:24px;line-height: 24px;text-align: center;}
+

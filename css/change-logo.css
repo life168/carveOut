@@ -1,0 +1,12 @@
+.main .main_right{background: #fff;height:1013px;width:838px;border:1px solid #e0e0e0;}
+.main .main_right .main_mid_top{padding: 24px 23px 0 15px;}
+.main .main_right .main_mid_top p{line-height: 26px;}
+.main .main_right .found_pw{border-bottom:1px solid #e0e0e0;font-size: 14px;color: #000;}
+.main .main_right .main_right_bot{height:107px;}
+.main .main_right .main_right_bot{padding:15px 0 0 17px;}
+.main .main_right .main_right_bot .main_right_pic img{display: block;border: 1px solid #efefef;margin-right: 26px;}
+.main .main_right .main_right_bot form{margin-top: 32px;}
+.main .main_right .main_right_bot .main_right_bot_loading{width:178px;height:23px;border: 1px solid #efefef; }
+.main .main_right .main_right_bot .main_right_browse{width:74px;height:24px;background: #663715;color: #fff}
+.main .main_right .main_right_bot .main_right_save{width:74px;height:24px;background: #dfdfdf;}
+.main .main_right .main_right_bot p{margin-top: 20px;}

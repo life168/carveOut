@@ -1,0 +1,16 @@
+.main_right_mid{margin:0 89px 0 40px;height:96px;border-bottom: 1px dotted #ddd;}
+.phone{background: url(../images/attesttation_03.jpg) no-repeat 7px 33px;padding: 24px 0 0 58px;}
+.email{background: url(../images/attesttation_07.jpg) no-repeat 7px 33px;padding: 24px 0 0 58px;}
+.shenfen{background: url(../images/attesttation_11.jpg) no-repeat 7px 33px;padding: 24px 0 0 58px;}
+.work{background: url(../images/attesttation_15.jpg) no-repeat 7px 33px;padding: 24px 0 0 58px;}
+.main_right_mid p{line-height: 26px;}
+.main_right_mid p span{display: block;color: #212121;font-size: 14px;}
+.main_right_mid input{width:81px;height:31px;background: #663715;color: #fff;margin-right: 51px;}
+.main_right_mid .clicking{background: #cb9a77;}
+.main_right_bot{height: 162px;margin-top: 47px;background: #f3f3f3;}
+.main_right_bot ul{padding-top: 9px;}
+.main_right_bot ul li{line-height: 24px;color: #e93100;padding-left: 58px;}
+.main_right_bot .main_right_bot_bg{background: url(../images/attest_03.jpg) no-repeat 27px 3px;}
+.main_right_bot ul li a{color: #393939;}
+.main_right_bot p{padding-left: 73px;background: url(../images/tel_07.jpg) no-repeat 58px 3px;margin-top: 24px;color: #9c4810;}
+.main_right_bot_pic{margin: 84px 0 0 294px;}

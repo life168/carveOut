@@ -1,0 +1,10 @@
+.main_mid{padding-left: 20px;margin-top: 17px;}
+.main_mid p span{font-size: 14px;color: #3e3226;margin-bottom: 11px;}
+.main_mid form input {margin: 10px 0;color: #333}
+.main_right_bot{height: 162px;margin-top: 47px;background: #f3f3f3;}
+.main_right_bot ul{padding-top: 9px;}
+.main_right_bot ul li{line-height: 24px;color: #e93100;padding-left: 58px;}
+.main_right_bot .main_right_bot_bg{background: url(../images/attest_03.jpg) no-repeat 27px 3px;}
+.main_right_bot ul li a{color: #393939;}
+.main_right_bot p{padding-left: 73px;background: url(../images/tel_07.jpg) no-repeat 58px 3px;margin-top: 24px;color: #9c4810;}
+.main_right_bot_pic{margin: 84px 0 0 294px;}
